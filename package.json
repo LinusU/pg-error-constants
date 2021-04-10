@@ -1,6 +1,17 @@
 {
   "name": "pg-error-constants",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
-  "repository": "LinusU/pg-error-constants"
+  "repository": "LinusU/pg-error-constants",
+  "main": "src/cjs/index.js",
+  "module": "src/esm/index.js",
+  "types": "types/cjs/index.js",
+  "contributors": [
+    {
+      "name": "LinusU"
+    },
+    {
+      "name": "Kenneth Luplau-Brøgger"
+    }
+  ]
 }

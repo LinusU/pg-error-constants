@@ -344,3 +344,9 @@ const { UNIQUE_VIOLATION } = require('pg-error-constants')
   <tr><td>XX001</td><td>DATA_CORRUPTED</td></tr>
   <tr><td>XX002</td><td>INDEX_CORRUPTED</td></tr>
 </table>
+
+## Changelog
+
+### 1.1.0 Added ES Module support and types
+
+### 1.0.0 Initial release
